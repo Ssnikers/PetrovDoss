@@ -2,7 +2,7 @@ import random
 from time import sleep
 from tqdm import tqdm
 
-init()
+'init'()
 
 name2 = input("Номер тел/URL: ")
 input("Прокси: ")
